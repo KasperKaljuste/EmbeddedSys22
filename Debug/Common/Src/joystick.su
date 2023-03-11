@@ -1,0 +1,3 @@
+../Common/Src/joystick.c:12:6:CS_START	8	static
+../Common/Src/joystick.c:16:6:CS_END	8	static
+../Common/Src/joystick.c:20:6:Joystick_Read	32	static

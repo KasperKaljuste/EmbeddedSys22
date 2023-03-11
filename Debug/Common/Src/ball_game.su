@@ -1,0 +1,7 @@
+../Common/Src/ball_game.c:4:6:ball_init	24	static
+../Common/Src/ball_game.c:13:6:move_ball	24	static
+../Common/Src/ball_game.c:30:6:create_line	24	static
+../Common/Src/ball_game.c:41:6:move_line	32	static
+../Common/Src/ball_game.c:51:6:check_collision	16	static
+../Common/Src/ball_game.c:60:9:create_powerup	24	static
+../Common/Src/ball_game.c:67:6:check_powerup_collision	24	static

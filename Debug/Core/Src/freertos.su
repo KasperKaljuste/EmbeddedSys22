@@ -1,0 +1,8 @@
+../Core/Src/freertos.c:78:13:vApplicationIdleHook	4	static
+../Core/Src/freertos.c:93:13:vApplicationStackOverflowHook	16	static
+../Core/Src/freertos.c:102:13:vApplicationMallocFailedHook	4	static
+../Core/Src/freertos.c:121:6:vApplicationGetIdleTaskMemory	24	static
+../Core/Src/freertos.c:135:6:MX_FREERTOS_Init	56	static
+../Core/Src/freertos.c:179:6:StartDefaultTask	16	static
+../Core/Src/freertos.c:196:6:vLCDtask	192	static
+../Core/Src/freertos.c:294:6:vJOYtask	80	static
